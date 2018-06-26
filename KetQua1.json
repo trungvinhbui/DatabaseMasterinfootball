@@ -2,10 +2,10 @@
     {
         "tendoi1": "Australia",
         "siso1": "0",
-        "logo1":"Argentina",
+        "logo1":"https://raw.githubusercontent.com/trungvinhbui/DatabaseMasterinfootball/master/Australia.png",
         "tendoi2": "Peru",
         "siso2": "0",
-        "logo2":"Argentina",
+        "logo2":"https://raw.githubusercontent.com/trungvinhbui/DatabaseMasterinfootball/master/Peru.png",
         "Info":"Group Stage - Group C - Matchday 3 of 3"
     }
 ]
